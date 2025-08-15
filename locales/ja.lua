@@ -30,13 +30,13 @@ local Translations = {
         addkeys = '他人に渡すために車両のスペアキーを増やします',
         addkeys_id = 'id',
         addkeys_id_help = 'プレイヤーID',
-        addkeys_plate = 'plate',
-        addkeys_plate_help = 'プレート',
-        rkeys = '他人に渡すために作った車両のスペアキーを破棄します',
-        rkeys_id = 'id',
+        addkeys_plate = 'ナンバー',
+        addkeys_plate_help = 'ナンバープレート',
+        rkeys = '誰かのために乗り物のキーを削除します。',
+        rkeys_id = 'ID',
         rkeys_id_help = 'プレイヤーID',
-        rkeys_plate = 'plate',
-        rkeys_plate_help = 'プレート',
+        rkeys_plate = 'ナンバー',
+        rkeys_plate_help = 'ナンバープレート',
     }
 
 }
